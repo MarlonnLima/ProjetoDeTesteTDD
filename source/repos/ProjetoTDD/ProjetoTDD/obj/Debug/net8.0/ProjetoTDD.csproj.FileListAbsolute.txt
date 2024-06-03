@@ -1,0 +1,14 @@
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\bin\Debug\net8.0\ProjetoTDD.exe
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\bin\Debug\net8.0\ProjetoTDD.deps.json
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\bin\Debug\net8.0\ProjetoTDD.runtimeconfig.json
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\bin\Debug\net8.0\ProjetoTDD.dll
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\bin\Debug\net8.0\ProjetoTDD.pdb
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ProjetoTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ProjetoTDD.AssemblyInfoInputs.cache
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ProjetoTDD.AssemblyInfo.cs
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ProjetoTDD.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ProjetoTDD.dll
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\refint\ProjetoTDD.dll
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ProjetoTDD.pdb
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ProjetoTDD.genruntimeconfig.cache
+C:\Users\Marlon\source\repos\ProjetoTDD\ProjetoTDD\obj\Debug\net8.0\ref\ProjetoTDD.dll
